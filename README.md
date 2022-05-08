@@ -1,7 +1,17 @@
 ### Hi there 👋
 
-Something goes here they reckon. Maybe one day I'll make this fancy.
-<!--
+Something goes here they reckon. Maybe I'll make this fancier one day.
+
+
+🔭 Most recently contributing to Pi-hole, AdGuard/Easylist etc.
+
+----
+
+<i> This is subject to change without notice, such as but not limited to some apparent disclaimer 😄 </i>
+
+ 
+
+<!-- original
 **lz-eng/lz-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
