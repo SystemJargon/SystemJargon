@@ -1,9 +1,18 @@
 ### Hi there 👋
 
+----
+
 Something goes here they reckon. Maybe I'll make this fancier one day.
 
+Feel free to ⚡ or ✨ or 👯 on my repo's and content.
 
-🔭 Most recently contributing to Pi-hole, AdGuard/Easylist etc.
+//
+
+
+🌱 Most recently contributing to <b>[Pi-hole](pi-hole) & [AdGuardHome](AdGuardHome)</b> 🌱
+
+However I do have some other repo's you should check out.
+
 
 ----
 
