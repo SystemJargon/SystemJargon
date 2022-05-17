@@ -4,17 +4,18 @@
 
 Feel free to ⚡ (fork) or ✨ (star) or 👯 (follow) my content.
 
-//
 
 
-🌱 Most recently contributing to <b>[Pi-hole](pi-hole) & [AdGuardHome](AdGuardHome)</b> 🌱
+🌱 Some of my repo's are about allowlists/blocklists and <b>[Pi-hole](pi-hole) & [AdGuardHome](AdGuardHome)</b>. 🌱
 
-However I do have some other repo's you should check out.
+Some other repo's too, including but not limited to Unifi content.
 
 
-----
+[My repo's](https://github.com/lz-eng?tab=repositories) 
 
-<i> This is subject to change without notice, such as but not limited to some apparent disclaimer 😄 </i>
+[My gist's](https://gist.github.com/lz-eng)
+
+
 
  
 
