@@ -2,9 +2,7 @@
 
 ----
 
-Something goes here they reckon. Maybe I'll make this fancier one day.
-
-Feel free to ⚡ or ✨ or 👯 on my repo's and content.
+Feel free to ⚡ (fork) or ✨ (star) or 👯 (follow) my content.
 
 //
 
