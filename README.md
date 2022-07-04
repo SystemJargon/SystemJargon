@@ -12,25 +12,35 @@ I have various repo's and gists. Have a look around, follow me or star my conten
 
 ----
 
-<table border="0">
+<table border="1">
 
-<tr border="0">
-<td border="0">
+<tr border="1">
+<td border="1">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=systemjargon&repo=pi-hole)](https://github.com/systemjargon/pi-hole)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=systemjargon&repo=allowlists)](https://github.com/systemjargon/allowlists)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=systemjargon&repo=Windows_11)](https://github.com/systemjargon/Windows_11)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=systemjargon&repo=password-dictionaries)](https://github.com/systemjargon/password-dictionaries)
+
+
+
+
+
 
 </td>
 
-<td border="0">
+<td border="1">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=systemjargon&repo=adguardhome)](https://github.com/systemjargon/adguardhome)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=systemjargon&repo=blocklists)](https://github.com/systemjargon/blocklists)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=systemjargon&repo=windows-logoff-hours)](https://github.com/systemjargon/windows-logoff-hours)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=systemjargon&repo=infosec-windows-2022)](https://github.com/systemjargon/infosec-windows-2022)
 
 </td>
 </tr>
