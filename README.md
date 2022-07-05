@@ -11,25 +11,19 @@ I have various [Repositories](https://github.com/SystemJargon?tab=repositories) 
 
 ### Allowlists, Blocklists and Pi-hole, AdBlock Repos
 
-<table border=0>
 
-<td border=0>
+
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=systemjargon&repo=blocklists&theme=dark)](https://github.com/systemjargon/blocklists)
 
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=systemjargon&repo=allowlists&theme=dark)](https://github.com/systemjargon/allowlists)
 
-</td>
-
-<td border=0>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=systemjargon&repo=adguardhome&theme=dark)](https://github.com/systemjargon/adguardhome)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=systemjargon&repo=pi-hole&theme=dark)](https://github.com/systemjargon/pi-hole)
 
 
-</td>
 
-</table>
+
+
 
 
