@@ -9,7 +9,7 @@ I have various [Repositories](https://github.com/SystemJargon?tab=repositories) 
 ----
 
 
-### Allowlists, Blocklists and Pi-hole, AdBlock Repos
+### Allowlists, Blocklists Repos (for AGH/uBO/Pi-hole)
 
 
 
