@@ -8,7 +8,6 @@ I have various [Repositories](https://github.com/SystemJargon?tab=repositories) 
 
 ----
 
-<!--
 
 ### Allowlists, Blocklists and Pi-hole, AdBlock Repos
 
@@ -33,4 +32,4 @@ I have various [Repositories](https://github.com/SystemJargon?tab=repositories) 
 
 </table>
 
--->
+
