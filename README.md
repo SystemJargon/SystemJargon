@@ -20,6 +20,10 @@ I have various [Repositories](https://github.com/SystemJargon?tab=repositories) 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=systemjargon&repo=allowlists&theme=dark)](https://github.com/systemjargon/allowlists)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=systemjargon&repo=pi-hole&theme=dark)](https://github.com/systemjargon/pi-hole)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=systemjargon&repo=adguardhome&theme=dark)](https://github.com/systemjargon/adguardhome)
+
 
 
 
