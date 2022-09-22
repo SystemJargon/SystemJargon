@@ -8,11 +8,6 @@ I have various [Repositories](https://github.com/SystemJargon?tab=repositories) 
 
 ----
 
-### ScrewSonyBlocklist
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=systemjargon&repo=ScrewSonyBlocklist&theme=dark)](https://github.com/systemjargon/ScrewSonyBlocklist)
-
-
 ### Allowlists, Blocklists Repos (for AGH/uBO/Pi-hole)
 
 
