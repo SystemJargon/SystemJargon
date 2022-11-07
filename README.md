@@ -19,6 +19,8 @@ I have various [Repositories](https://github.com/SystemJargon?tab=repositories) 
 
 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=systemjargon&repo=filters&theme=dark)](https://github.com/systemjargon/filters)
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=systemjargon&repo=blocklists&theme=dark)](https://github.com/systemjargon/blocklists)
 
