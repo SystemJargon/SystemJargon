@@ -15,7 +15,8 @@ I always appreciate a follow and stars
 ----
 -->
 
-### My popular and recent repositories  
+
+### My Adblocking Repos
 
 
 
@@ -29,9 +30,6 @@ I always appreciate a follow and stars
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=systemjargon&repo=allowlists&theme=cobalt)](https://github.com/systemjargon/allowlists)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=systemjargon&repo=pi-hole&theme=cobalt)](https://github.com/systemjargon/pi-hole)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=systemjargon&repo=adguardhome&theme=cobalt)](https://github.com/systemjargon/adguardhome)
 
 
 
