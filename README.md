@@ -19,7 +19,7 @@ Recently updated:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=systemjargon&repo=filters&theme=cobalt)](https://github.com/systemjargon/filters)
 
-My other related repos:
+My other 'adblocker' like repos:
 
 * [Blocklists](https://github.com/systemjargon/blocklists)
 * [Allowlists](https://github.com/systemjargon/allowlists)
@@ -29,7 +29,7 @@ My other related repos:
 
 ----
 
-### Repos often searched and viewed:
+<!-- 
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=systemjargon&repo=unifi-udm-udr&theme=cobalt)](https://github.com/systemjargon/unifi-udm-udr)
@@ -37,6 +37,7 @@ My other related repos:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=systemjargon&repo=unifi-usg&theme=cobalt)](https://github.com/systemjargon/unifi-usg)
 
+-->
 
 
 
