@@ -1,6 +1,8 @@
 ## Hello 👋
 
-### About me and my repos
+### About me and my repos 
+
+Gists [here](https://gist.github.com/SystemJargon)
 
 <!-- 
 ![systemjargon's GitHub stats](https://github-readme-stats.vercel.app/api?username=systemjargon&show_icons=true&border_radius=40&theme=cobalt) 
