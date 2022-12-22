@@ -20,6 +20,12 @@ Recently updated:
 
 -->
 
+[My Gists](https://gist.github.com/SystemJargon)
+
+
+----
+
+
 My 'adblock' related repos:
 
 * [Filters](https://github.com/systemjargon/filters)
