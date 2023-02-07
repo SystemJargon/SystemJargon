@@ -1,6 +1,8 @@
 ## Hello 👋
 
+<!--
 ![systemjargon's GitHub stats](https://github-readme-stats.vercel.app/api?username=systemjargon&show_icons=true&border_radius=40&theme=cobalt) 
+-->
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=systemjargon&show_icons=true&langs_count=5&border_radius=40&theme=cobalt)
