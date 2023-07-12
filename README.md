@@ -1,5 +1,17 @@
 ## Hello 👋
 
+
+
+My 'adblock' related repos (⭐ is appreciated)
+
+* [Filters](https://github.com/systemjargon/filters)
+* [Blocklists](https://github.com/systemjargon/blocklists)
+* [Allowlists](https://github.com/systemjargon/allowlists)
+* [Pi-hole](https://github.com/systemjargon/pi-hole)
+* [AdGuardHome](https://github.com/systemjargon/adguardhome)
+
+----
+
 <!--
 ![systemjargon's GitHub stats](https://github-readme-stats.vercel.app/api?username=systemjargon&show_icons=true&border_radius=40&theme=cobalt) 
 -->
@@ -16,15 +28,6 @@
 * [All My Repositories](https://github.com/SystemJargon?tab=repositories)
 * [All My Gists](https://gist.github.com/SystemJargon)
 
-----
-
-My 'adblock' related repos:
-
-* [Filters](https://github.com/systemjargon/filters)
-* [Blocklists](https://github.com/systemjargon/blocklists)
-* [Allowlists](https://github.com/systemjargon/allowlists)
-* [Pi-hole](https://github.com/systemjargon/pi-hole)
-* [AdGuardHome](https://github.com/systemjargon/adguardhome)
 
 ----
 
