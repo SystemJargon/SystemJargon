@@ -57,6 +57,7 @@ My other misc repos
 * [WirelessPWN](https://github.com/SystemJargon/wireless-pwn)
 * [Regex](https://github.com/SystemJargon/regex)
 * [NZSX Market Data](https://github.com/SystemJargon/nzx_data)
+* [Compound Interest Calculator](https://github.com/SystemJargon/CompoundCalculator)
 
 
 <!-- end -->
