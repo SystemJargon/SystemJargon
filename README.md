@@ -31,6 +31,13 @@ My 'adblock' related repos (⭐ is appreciated)
 
 ----
 
+Latest repo/s:
+
+* [Finance](https://systemjargon.github.io/finance/)
+
+  
+----
+
 My Ubiquiti / Unifi repos:
 
 * [Unifi Dream Machine/Router](https://github.com/SystemJargon/unifi-udm-udr)
@@ -56,9 +63,6 @@ My other misc repos
 * [HaProxy GeoRegion w/CDN](https://github.com/SystemJargon/haproxy-geo)
 * [WirelessPWN](https://github.com/SystemJargon/wireless-pwn)
 * [Regex](https://github.com/SystemJargon/regex)
-* [NZSX Market Data](https://github.com/SystemJargon/nzx_data)
-* [Compound Interest Calculator](https://systemjargon.github.io/CompoundCalculator/)
-* [Savings Interest Calculator or Stock Dividends](https://systemjargon.github.io/SavingsInterestOrStockDividends)
-
+  
 
 <!-- end -->
