@@ -28,13 +28,6 @@ My 'adblock' related repos (⭐ is appreciated)
 * [All My Repositories](https://github.com/SystemJargon?tab=repositories)
 * [All My Gists](https://gist.github.com/SystemJargon)
 
-
-----
-
-Latest repo/s:
-
-* [Finance](https://systemjargon.github.io/finance/)
-
   
 ----
 
