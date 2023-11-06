@@ -1,34 +1,19 @@
 ## Hello 👋
 
 
+* [All My Repositories](https://github.com/SystemJargon?tab=repositories)
+* [All My Gists](https://gist.github.com/SystemJargon)
 
-My 'adblock' related repos (⭐ is appreciated)
+----
+
+My DNS blocklist/allowlist related repos (⭐ is appreciated)
 
 * [Filters](https://github.com/systemjargon/filters)
 * [Blocklists](https://github.com/systemjargon/blocklists)
 * [Allowlists](https://github.com/systemjargon/allowlists)
 * [Pi-hole](https://github.com/systemjargon/pi-hole)
-* [AdGuardHome](https://github.com/systemjargon/adguardhome)
-
-----
-
-<!--
-![systemjargon's GitHub stats](https://github-readme-stats.vercel.app/api?username=systemjargon&show_icons=true&border_radius=40&theme=cobalt) 
--->
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=systemjargon&show_icons=true&langs_count=5&border_radius=40&theme=cobalt)
-
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-----
-
-
-* [All My Repositories](https://github.com/SystemJargon?tab=repositories)
-* [All My Gists](https://gist.github.com/SystemJargon)
-
-  
 ----
 
 My Ubiquiti / Unifi repos:
