@@ -6,6 +6,5 @@
 
 Most of my repos have a focus on privacy and security.
 
-[![https://gafam.info](https://ptrace.gafam.info/unofficial/img/color/lqdn-gafam-poster-en-color-5x1-2560x.png)](https://gafam.info)
 
 <!-- end -->
